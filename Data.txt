@@ -1,1 +1,0 @@
-There will be two main datasets which will be used in the project. The first one is gym locations dataset retrieved from Foursquare platform. The dataframe will consist of four main columns namely Neighborhood, Type of Venue, Latitude and Longtitude. The second dataset comes from Wikipedia and consists of Munich boroughs, their population, area and population density.
